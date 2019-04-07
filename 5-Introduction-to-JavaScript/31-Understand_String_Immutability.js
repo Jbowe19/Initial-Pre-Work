@@ -1,15 +1,7 @@
-/* used bracket notation for find first character in a string */
-var firstNameLength = 0;
-var firstName = "Ada";
-
-firstNameLength = firstName.length;
-
+/* changed the value of a string */
 // Setup
-var lastNameLength = 0;
-var lastName = "Lovelace";
+var myStr = "Jello World";
 
-// Only change code below this line.
+// Only change code below this line
 
-lastNameLength = lastName.length;
-
-var firstLetterOfLastName = lastName[0];
+myStr = "Hello World";
