@@ -1,4 +1,4 @@
-/* used flex-basis */
+/* used flex-basis*/
 <style>
   #box-container {
     display: flex;
@@ -10,7 +10,7 @@
     height: 200px;
     flex-basis: 10em;
   }
-  
+
   #box-2 {
     background-color: orangered;
     height: 200px;
