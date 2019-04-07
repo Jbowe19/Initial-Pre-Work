@@ -1,19 +1,5 @@
-/* formatted a grid within a grid */
+/* formatted header and footer space */
 <style>
-  .container {
-    font-size: 1.5em;
-    min-height: 300px;
-    width: 100%;
-    background: LightGray;
-    display: grid;
-    grid-template-columns: auto 1fr;
-    grid-template-rows: auto 1fr auto;
-    grid-gap: 10px;
-    grid-template-areas:
-      "advert header"
-      "advert content"
-      "advert footer";
-  }
   .item1 {
     background: LightSkyBlue;
     grid-area: header;
@@ -27,11 +13,6 @@
   .item3 {
     background: PaleTurquoise;
     grid-area: content;
-    /* enter your code below this line */
-    grid-template-columns: auto 1fr;
-    display: grid;
-
-    /* enter your code above this line */
   }
 
   .item4 {
@@ -39,22 +20,50 @@
     grid-area: footer;
   }
 
-  .itemOne {
-    background: PaleGreen;
+  .container {
+    font-size: 1.5em;
+    min-height: 300px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px auto 1fr auto;
+    grid-gap: 10px;
+    grid-template-areas:
+      "header"
+      "advert"
+      "content"
+      "footer";
   }
 
-  .itemTwo {
-    background: BlanchedAlmond;
+  @media (min-width: 300px){
+    .container{
+      grid-template-columns: auto 1fr;
+      grid-template-rows: auto 1fr auto;
+      grid-template-areas:
+        "advert header"
+        "advert content"
+        "advert footer";
+    }
   }
 
+  @media (min-width: 400px){
+    .container{
+      /* change the code below this line */
+
+      grid-template-areas:
+        "header header"
+        "advert content"
+        "footer footer";
+
+    /* change the code above this line */
+    }
+  }
 </style>
 
 <div class="container">
   <div class="item1">header</div>
   <div class="item2">advert</div>
-  <div class="item3">
-    <div class="itemOne">paragraph1</div>
-    <div class="itemTwo">paragraph2</div>
-  </div>
+  <div class="item3">content</div>
   <div class="item4">footer</div>
 </div>
