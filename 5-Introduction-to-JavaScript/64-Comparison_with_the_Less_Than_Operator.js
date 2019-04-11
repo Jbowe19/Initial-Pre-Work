@@ -1,15 +1,16 @@
-/ * used less than operator */
-function testLessThan(val) {
-  if (val < 25) {  // Change this line
-    return "Under 25";
-  }
+/* used logical operator */
+function testLogicalOr(val) {
+  // Only change code below this line
 
-  if (val < 55) {  // Change this line
-    return "Under 55";
-  }
+if ( val < 10 || val > 20 ) {
+    return "Outside";
+}
 
-  return "55 or Over";
+
+
+  // Only change code above this line
+  return "Inside";
 }
 
 // Change this value to test
-testLessThan(10);
+testLogicalOr(15);
