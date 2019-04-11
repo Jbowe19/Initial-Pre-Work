@@ -1,4 +1,4 @@
-/* used greater than operator */
+/* used greater than operator  */
 function testGreaterThan(val) {
   if (val > 100) {  // Change this line
     return "Over 100";
