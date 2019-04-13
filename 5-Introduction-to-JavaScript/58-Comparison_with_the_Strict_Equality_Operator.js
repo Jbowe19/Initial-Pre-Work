@@ -8,4 +8,4 @@ function testStrict(val) {
 }
 
 // Change this value to test
-testStrict(10);
+testStrict(10)
