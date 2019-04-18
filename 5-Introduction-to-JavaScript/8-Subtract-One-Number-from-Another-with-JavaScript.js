@@ -1,2 +1,2 @@
-/* using subtraction in javaScript */
+// using subtraction in javaScript 
 var difference = 45 -33;
