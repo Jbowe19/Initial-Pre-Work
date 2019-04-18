@@ -1,4 +1,4 @@
-/* used a function  */
+// used a function  
 // Example
 function ourReusableFunction() {
   console.log("Heyya, World");
