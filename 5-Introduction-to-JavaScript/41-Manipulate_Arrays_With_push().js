@@ -1,4 +1,4 @@
-/* changed array with push */
+// changed array with push 
 // Example
 var ourArray = ["Stimpson", "J", "cat"];
 ourArray.push(["happy", "joy"]);
