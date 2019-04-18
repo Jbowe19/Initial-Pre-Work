@@ -1,4 +1,4 @@
-/* used equality operator */
+// used equality operator 
 // Setup
 function testEqual(val) {
   if (val == 12) { // Change this line
