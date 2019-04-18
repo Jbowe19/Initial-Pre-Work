@@ -1,4 +1,4 @@
-/* finding the first character in a string"
+// finding the first character in a string"
 // Example
 var firstNameLength = 0;
 var firstName = "Ada";
