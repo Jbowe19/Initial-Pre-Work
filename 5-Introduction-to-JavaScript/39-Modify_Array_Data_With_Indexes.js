@@ -1,4 +1,4 @@
-/* modified array data */
+// modified array data 
 // Example
 var ourArray = [18,64,99];
 ourArray[1] = 45; // ourArray now equals [18,45,99].
