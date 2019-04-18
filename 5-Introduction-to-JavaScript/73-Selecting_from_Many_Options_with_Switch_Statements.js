@@ -1,4 +1,4 @@
-/* used a switch statement */
+// used a switch statement 
 function caseInSwitch(val) {
   var answer = "";
   // Only change code below this line
