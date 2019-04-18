@@ -1,4 +1,4 @@
-/* used const instead of var */
+// used const instead of var
 function printManyTimes(str) {
   "use strict";
   const SENTENCE = str + " is cool!";
