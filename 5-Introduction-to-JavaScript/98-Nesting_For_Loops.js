@@ -1,4 +1,4 @@
-/* nested for loops */
+// nested for loops 
 function multiplyAll(arr) {
   var product = 1;
   // Only change code below this line
