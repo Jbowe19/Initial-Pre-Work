@@ -1,4 +1,4 @@
-/* used inequality operator */
+// used inequality operator 
 // Setup
 function testNotEqual(val) {
   if (val != 99) { // Change this line
