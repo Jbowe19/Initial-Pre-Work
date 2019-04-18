@@ -1,4 +1,4 @@
-/* used a variable to construct a string */
+// used a variable to construct a string 
 // Example
 var ourName = "freeCodeCamp";
 var ourStr = "Hello, our name is " + ourName + ", how are you?";
