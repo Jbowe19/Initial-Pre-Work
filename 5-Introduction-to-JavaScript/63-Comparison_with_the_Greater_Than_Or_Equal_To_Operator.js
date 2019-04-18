@@ -1,4 +1,4 @@
-/* used greater than or equal to */
+// used greater than or equal to 
 function testGreaterOrEqual(val) {
   if (val >= 20 ) {  // Change this line
     return "20 or Over";
