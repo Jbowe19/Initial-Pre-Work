@@ -1,4 +1,4 @@
-/* used and if statement */
+// used and if statement 
 // Example
 function ourTrueOrFalse(isItTrue) {
   if (isItTrue) {
