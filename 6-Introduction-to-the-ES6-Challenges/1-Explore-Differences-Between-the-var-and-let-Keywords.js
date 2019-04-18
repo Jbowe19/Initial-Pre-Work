@@ -1,4 +1,4 @@
-/* changed var to let */
+// changed var to let 
 let catName;
 let quote;
 function catTalk() {
