@@ -1,4 +1,4 @@
-/* assigned values to variables */
+// assigned values to variables 
 // Setup
 var a;
 var b = 2;
