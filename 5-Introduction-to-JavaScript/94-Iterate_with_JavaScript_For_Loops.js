@@ -1,4 +1,4 @@
-/* used a for loop */
+// used a for loop 
 // Example
 var ourArray = [];
 
