@@ -1,4 +1,4 @@
-/* Initialized three variables */
+// Initialized three variables 
 // Initialize these three variables
 var a = 5;
 var b = 10;
