@@ -1,4 +1,4 @@
-/* changed an objects name with bracket notation */
+// changed an objects name with bracket notation 
 // Example
 var ourDog = {
   "name": "Camper",
