@@ -1,4 +1,4 @@
-/* learned about logical order with if else statment */
+// learned about logical order with if else statment 
 function orderMyLogic(val) {
   if (val < 5) {
     return "Less than 5";
