@@ -1,4 +1,4 @@
-/* used else if statements with golf terms */
+// used else if statements with golf terms 
 var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 function golfScore(par, strokes) {
   // Only change code below this line
