@@ -1,4 +1,4 @@
-/* added a new property using bracket notation */
+// added a new property using bracket notation 
 // Example
 var ourDog = {
   "name": "Camper",
