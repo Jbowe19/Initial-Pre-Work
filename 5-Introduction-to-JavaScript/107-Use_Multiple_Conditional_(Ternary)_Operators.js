@@ -1,4 +1,4 @@
-/* used several conditional operators */
+// used several conditional operators 
 function checkSign(num) {
   return (num >0)? "positive": (num<0)? "negative" : "zero";
 }
