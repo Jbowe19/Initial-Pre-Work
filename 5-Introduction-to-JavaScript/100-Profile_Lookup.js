@@ -1,4 +1,4 @@
-/* used else/if statement */
+// used else/if statement 
 for (var x = 0; x < contacts.length; x++){
     if (contacts[x].firstName === name) {
         if (contacts[x].hasOwnProperty(prop)) {
