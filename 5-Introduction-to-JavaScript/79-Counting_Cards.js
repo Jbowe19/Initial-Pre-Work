@@ -1,4 +1,4 @@
-/* created a counting cards function */
+// created a counting cards function 
 var count = 0;
 
 function cc(card) {
