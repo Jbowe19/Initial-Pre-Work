@@ -1,4 +1,4 @@
-/* used object literals */
+// used object literals 
 const createPerson = (name, age, gender) => {
   "use strict";
   // change code below this line
