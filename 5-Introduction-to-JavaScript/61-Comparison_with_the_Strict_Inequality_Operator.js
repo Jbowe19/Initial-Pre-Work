@@ -1,4 +1,4 @@
-/* used strict equality operator */
+// used strict equality operator 
 // Setup
 function testStrictNotEqual(val) {
   // Only Change Code Below this Line
