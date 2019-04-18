@@ -1,4 +1,4 @@
-/* changed an array that had a const declaration */
+// changed an array that had a const declaration 
 const s = [5, 7, 2];
 function editInPlace() {
   "use strict";
