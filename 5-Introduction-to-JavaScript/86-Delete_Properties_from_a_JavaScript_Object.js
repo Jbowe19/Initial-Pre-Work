@@ -1,4 +1,4 @@
-/* deleted a property */
+// deleted a property 
 // Example
 var ourDog = {
   "name": "Camper",
