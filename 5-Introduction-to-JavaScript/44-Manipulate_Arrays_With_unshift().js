@@ -1,4 +1,4 @@
-/* used unshift() */
+// used unshift() 
 // Example
 var ourArray = ["Stimpson", "J", "cat"];
 ourArray.shift(); // ourArray now equals ["J", "cat"]
