@@ -1,4 +1,4 @@
-/* used Math.Random */
+// used Math.Random 
 function randomFraction() {
 
   // Only change code below this line.
