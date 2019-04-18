@@ -1,4 +1,4 @@
-/* accessed a nested array */
+// accessed a nested array 
 // Setup
 var myPlants = [
   {
