@@ -1,4 +1,4 @@
-/* getters and setters */
+// getters and setters 
 function makeClass() {
   "use strict";
   /* Alter code below this line */
