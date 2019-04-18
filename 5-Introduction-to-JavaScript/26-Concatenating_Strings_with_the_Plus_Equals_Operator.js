@@ -1,4 +1,4 @@
-/* used and += operator to concetenate strings */
+// used and += operator to concetenate strings 
 // Example
 var ourStr = "I come first. ";
 ourStr += "I come second.";
