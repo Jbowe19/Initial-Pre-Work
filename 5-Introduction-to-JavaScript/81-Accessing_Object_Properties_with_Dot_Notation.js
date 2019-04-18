@@ -1,4 +1,4 @@
-/* used dot notation */
+// used dot notation 
 // Setup
 var testObj = {
   "hat": "ballcap",
