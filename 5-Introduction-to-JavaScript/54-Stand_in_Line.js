@@ -1,4 +1,4 @@
-/* this one was honestly totally confusing to me */
+// this one was honestly totally confusing to me 
 
 function nextInLine(arr, item) {
   // Your code here
