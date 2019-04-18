@@ -1,4 +1,4 @@
-/* generated a random whole number between a specific range of numbers */
+// generated a random whole number between a specific range of numbers 
 // Example
 function ourRandomRange(ourMin, ourMax) {
 
