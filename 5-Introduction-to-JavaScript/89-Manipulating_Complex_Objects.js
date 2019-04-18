@@ -1,4 +1,4 @@
-/* created a complex data structure */
+// created a complex data structure 
 var myMusic = [
   {
     "artist": "Billy Joel",
