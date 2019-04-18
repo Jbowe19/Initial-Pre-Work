@@ -1,4 +1,4 @@
-/* found the third letter in the last name */
+// found the third letter in the last name 
 // Example
 var firstName = "Ada";
 var secondLetterOfFirstName = firstName[1];
