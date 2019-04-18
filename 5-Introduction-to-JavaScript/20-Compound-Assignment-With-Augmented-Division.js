@@ -1,4 +1,4 @@
-/* used the /= operator  */
+// used the /= operator  
 var a = 48;
 var b = 108;
 var c = 33;
