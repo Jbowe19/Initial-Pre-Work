@@ -1,4 +1,4 @@
-/* used an else if statement */
+// used an else if statement 
 function testElseIf(val) {
   if (val > 10) {
     return "Greater than 10";
