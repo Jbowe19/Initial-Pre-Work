@@ -1,4 +1,4 @@
-/* tested local scope */
+// tested local scope 
 function myLocalScope() {
   'use strict'; // you shouldn't need to edit this line
 
