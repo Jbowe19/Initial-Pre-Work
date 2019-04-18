@@ -1,4 +1,4 @@
-/* finding the length of a string */
+// finding the length of a string 
 // Example
 var firstNameLength = 0;
 var firstName = "Ada";
