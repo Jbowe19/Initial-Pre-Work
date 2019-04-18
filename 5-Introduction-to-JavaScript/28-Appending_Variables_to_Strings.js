@@ -1,4 +1,4 @@
-/* appendeded a variable to a string */
+// appendeded a variable to a string 
 // Example
 var ourName = "freeCodeCamp";
 var ourStr = "Hello, our name is " + ourName + ", how are you?";
