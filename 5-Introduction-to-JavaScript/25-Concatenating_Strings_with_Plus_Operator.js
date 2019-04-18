@@ -1,4 +1,4 @@
-/* used concatenation operator */
+// used concatenation operator 
 // Example
 var ourStr = "I come first. " + "I come second.";
 
