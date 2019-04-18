@@ -1,4 +1,4 @@
-/* learned about scopes of var and let */
+// learned about scopes of var and let 
 
 function checkScope() {
  "use strict";
