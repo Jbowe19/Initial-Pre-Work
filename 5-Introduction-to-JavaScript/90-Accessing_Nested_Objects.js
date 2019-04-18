@@ -1,4 +1,4 @@
-/* accessed a nested object */
+// accessed a nested object 
 // Setup
 var myStorage = {
   "car": {
