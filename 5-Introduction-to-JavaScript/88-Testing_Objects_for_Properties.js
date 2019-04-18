@@ -1,4 +1,4 @@
-/* tested an object for a property */
+// tested an object for a property 
 gift: "pony",
 pet: "kitten",
 bed: "sleigh"
