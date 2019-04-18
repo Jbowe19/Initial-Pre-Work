@@ -1,4 +1,4 @@
-/* used various options within a switch statement */
+// used various options within a switch statement 
 function sequentialSizes(val) {
   var answer = "";
   // Only change code below this line
