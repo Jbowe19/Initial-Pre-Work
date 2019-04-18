@@ -1,4 +1,4 @@
-/* found odd numbers using for loop */
+// found odd numbers using for loop 
 // Example
 var ourArray = [];
 
