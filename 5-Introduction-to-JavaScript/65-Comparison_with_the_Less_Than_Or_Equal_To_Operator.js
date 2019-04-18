@@ -1,4 +1,4 @@
-/* used less thank equal to operator */
+// used less thank equal to operator 
 function testLessOrEqual(val) {
   if (val <= 12) {  // Change this line
     return "Smaller Than or Equal to 12";
