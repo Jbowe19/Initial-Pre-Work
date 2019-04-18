@@ -1,4 +1,4 @@
-/* used switch to replace an else if statement */
+// used switch to replace an else if statement 
 function chainToSwitch(val) {
   var answer = "";
   // Only change code below this line
