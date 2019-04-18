@@ -1,4 +1,4 @@
-/* simplified the code and removed function */
+// simplified the code and removed function 
 // change code below this line
 const bicycle = {
   gear: 2,
