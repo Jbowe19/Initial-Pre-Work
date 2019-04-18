@@ -1,4 +1,4 @@
-/* used the shift() function */
+// used the shift() function 
 // Example
 var ourArray = ["Stimpson", "J", ["cat"]];
 var removedFromOurArray = ourArray.shift();
