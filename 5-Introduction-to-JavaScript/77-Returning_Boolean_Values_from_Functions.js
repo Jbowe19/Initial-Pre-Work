@@ -1,4 +1,4 @@
-/*  remove if/else statement */
+//  remove if/else statement 
 function isLess(a, b) {
   // Fix this code
    return a <= b;
