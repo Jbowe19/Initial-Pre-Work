@@ -1,4 +1,4 @@
-/* created a variable and assigned it a value */
+// created a variable and assigned it a value 
 // Example
 var ourVar = 19;
 
