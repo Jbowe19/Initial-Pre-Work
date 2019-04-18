@@ -1,4 +1,4 @@
-/* used the pop() function */
+// used the pop() function 
 // Example
 var ourArray = [1,2,3];
 var removedFromOurArray = ourArray.pop();
