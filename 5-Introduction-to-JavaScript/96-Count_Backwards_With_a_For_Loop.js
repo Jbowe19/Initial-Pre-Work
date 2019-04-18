@@ -1,4 +1,4 @@
-/* counted backwards using a for loop */
+// counted backwards using a for loop 
 // Example
 var ourArray = [];
 
