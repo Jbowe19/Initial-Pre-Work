@@ -1,4 +1,4 @@
-/* used Object.freeze */
+// used Object.freeze 
 function freezeObj() {
   "use strict";
   const MATH_CONSTANTS = {
