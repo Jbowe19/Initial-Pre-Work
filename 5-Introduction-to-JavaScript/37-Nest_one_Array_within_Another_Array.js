@@ -1,4 +1,4 @@
-/* created a nested array */
+// created a nested array 
 // Example
 var ourArray = [["the universe", 42], ["everything", 101010]];
 
