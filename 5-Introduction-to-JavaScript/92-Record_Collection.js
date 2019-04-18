@@ -1,4 +1,4 @@
-/* updated data for record collection */
+// updated data for record collection 
 // Setup
 var collection = {
     "2548": {
