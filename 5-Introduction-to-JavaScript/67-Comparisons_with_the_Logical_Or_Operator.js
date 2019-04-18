@@ -1,4 +1,4 @@
-/* used the logical operator */
+// used the logical operator 
 function testLogicalOr(val) {
   // Only change code below this line
 if ( val < 10 || val > 20 ) {
