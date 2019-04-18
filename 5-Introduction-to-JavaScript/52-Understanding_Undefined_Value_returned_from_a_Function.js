@@ -1,4 +1,4 @@
-/* undefined value returned from a function */
+// undefined value returned from a function 
 // Example
 var sum = 0;
 function addThree() {
