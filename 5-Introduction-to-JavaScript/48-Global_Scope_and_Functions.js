@@ -1,4 +1,4 @@
-/* used global scope */
+// used global scope 
 // Declare your variable here
 var myGlobal = 10;
 
