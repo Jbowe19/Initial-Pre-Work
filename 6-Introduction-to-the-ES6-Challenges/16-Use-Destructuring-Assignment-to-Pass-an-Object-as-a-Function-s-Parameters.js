@@ -1,4 +1,4 @@
-/* destructure object in a function argument */
+// destructure object in a function argument 
 const stats = {
   max: 56.78,
   standard_deviation: 4.34,
