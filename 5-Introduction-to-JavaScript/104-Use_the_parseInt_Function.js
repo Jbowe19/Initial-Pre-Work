@@ -1,4 +1,4 @@
-/* used parseInt */
+// used parseInt 
 function convertToInteger(str) {
  return parseInt(str);
  }
