@@ -1,2 +1,2 @@
-/* divided using javaScript */
+// divided using javaScript 
 var quotient = 66 / 33;
