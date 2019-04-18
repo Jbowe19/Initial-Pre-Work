@@ -1,4 +1,4 @@
-/* adjusted the camelCase */
+// adjusted the camelCase 
 // Declarations
 var studlyCapVar;
 var properCamelCase;
