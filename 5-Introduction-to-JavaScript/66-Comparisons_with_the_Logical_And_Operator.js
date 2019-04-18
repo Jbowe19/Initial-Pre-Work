@@ -1,4 +1,4 @@
-/* used && operator */
+// used && operator 
 
   if (val <= 50 && val >= 25) {
       return "Yes";
