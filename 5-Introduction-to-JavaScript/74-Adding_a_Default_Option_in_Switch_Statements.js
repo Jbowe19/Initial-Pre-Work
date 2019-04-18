@@ -1,4 +1,4 @@
-/* used defult statement */
+// used defult statement 
 function switchOfStuff(val) {
   var answer = "";
   // Only change code below this line
