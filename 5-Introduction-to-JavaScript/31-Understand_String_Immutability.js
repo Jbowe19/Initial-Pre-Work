@@ -1,4 +1,4 @@
-/* changed the value of a string */
+// changed the value of a string 
 // Setup
 var myStr = "Jello World";
 
