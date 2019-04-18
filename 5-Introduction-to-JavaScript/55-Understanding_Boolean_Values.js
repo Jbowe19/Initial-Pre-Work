@@ -1,4 +1,4 @@
-/* boolean values */
+// boolean values 
 function welcomeToBooleans() {
 
 // Only change code below this line.
