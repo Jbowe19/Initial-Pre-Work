@@ -1,4 +1,4 @@
-/* used a while loop */
+// used a while loop 
 // Setup
 var myArray = [];
 
