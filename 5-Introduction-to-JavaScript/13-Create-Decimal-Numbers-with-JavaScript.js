@@ -1,4 +1,4 @@
-/* created a decimal */
+// created a decimal 
 var ourDecimal = 5.7;
 
 // Only change code below this line
