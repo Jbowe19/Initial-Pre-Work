@@ -1,4 +1,4 @@
-/* used a for loop to  to add the value of each element to my var */
+// used a for loop to  to add the value of each element to my var 
 
 // Example
 var ourArr = [ 9, 10, 11, 12];
