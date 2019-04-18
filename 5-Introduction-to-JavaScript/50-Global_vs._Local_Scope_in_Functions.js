@@ -1,4 +1,4 @@
-/* worked with global and local scope */
+// worked with global and local scope 
 // Setup
 var outerWear = "T-Shirt";
 
