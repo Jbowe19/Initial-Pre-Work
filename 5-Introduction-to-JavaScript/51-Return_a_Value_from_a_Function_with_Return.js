@@ -1,4 +1,4 @@
-/* used return to find a value in a fucntion */
+// used return to find a value in a fucntion 
 // Example
 function minusSeven(num) {
   return num - 7;
