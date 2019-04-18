@@ -1,4 +1,4 @@
-/* used import statement */
+// used import statement 
 "use strict";
 import {capitalizeString} from "string_functions";
 capitalizeString("hello!");
