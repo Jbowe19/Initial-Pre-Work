@@ -1,4 +1,4 @@
-/* used strict equality operator again */
+// used strict equality operator again 
 // Setup
 function compareEquality(a, b) {
   if (a === b) { // Change this line
