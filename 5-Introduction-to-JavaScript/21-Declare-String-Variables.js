@@ -1,4 +1,4 @@
-/* declared string variables */
+// declared string variables 
 // Example
 var firstName = "Alan";
 var lastName = "Turing";
