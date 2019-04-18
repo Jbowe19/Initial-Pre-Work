@@ -1,4 +1,4 @@
-/* created a default parameter */
+// created a default parameter 
 const increment = (function() {
   "use strict";
   return function increment(number, value =1) {
