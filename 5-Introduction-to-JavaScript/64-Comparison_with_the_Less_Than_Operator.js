@@ -1,4 +1,4 @@
-/* used logical operator */
+// used logical operator 
 function testLogicalOr(val) {
   // Only change code below this line
 
