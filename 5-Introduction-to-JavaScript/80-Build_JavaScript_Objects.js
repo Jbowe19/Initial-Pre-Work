@@ -1,4 +1,4 @@
-/* built an object */
+// built an object 
 // Example
 var ourDog = {
   "name": "Camper",
