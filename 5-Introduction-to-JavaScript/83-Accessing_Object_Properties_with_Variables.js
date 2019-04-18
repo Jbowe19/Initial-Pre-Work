@@ -1,4 +1,4 @@
-/* accessed a property with bracket notation */
+// accessed a property with bracket notation 
 // Setup
 var testObj = {
   12: "Namath",
