@@ -1,4 +1,4 @@
-/* used bracket notation */
+// used bracket notation 
 // Setup
 var testObj = {
   "an entree": "hamburger",
