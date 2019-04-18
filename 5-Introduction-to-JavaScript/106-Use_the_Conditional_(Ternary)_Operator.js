@@ -1,4 +1,4 @@
-/* used the conditional operator */
+// used the conditional operator 
 function checkEqual(a, b) {
 
 return a==b ? true: false;
