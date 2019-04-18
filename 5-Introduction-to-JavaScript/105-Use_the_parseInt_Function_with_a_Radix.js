@@ -1,4 +1,4 @@
-/* used radix */
+// used radix 
 function convertToInteger(str) {
 
 return parseInt(str, 2);
