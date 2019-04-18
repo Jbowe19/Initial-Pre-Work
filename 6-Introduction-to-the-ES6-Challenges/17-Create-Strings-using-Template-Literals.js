@@ -1,4 +1,4 @@
-/* created strings using Template Literals */
+// created strings using Template Literals 
 const result = {
   success: ["max-length", "no-amd", "prefer-arrow-functions"],
   failure: ["no-var", "var-on-top", "linebreak"],
