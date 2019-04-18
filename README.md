@@ -10,7 +10,7 @@
 
 HTML code is parsed and turned into a DOM (Document Object Model) tree by the rendering engine. CSS attributes are also parsed and combined with the DOM tree to create a “render tree”. This tree contains all visual elements of your page such as width and height and color. They are arranged in hierarchal order and will be displayed accordingly in the browser.
 Once the render tree is finished being constructed the rendering engine read the HTML and the layout process begins. This in turn is how the HTML elements are placed on the screen. Following the layout process – the painting process begins. This process involves each node of the render which is drawn out on the screen and contains the design and style elements.
-Lastly, JavaScript is executed after the web page has been rendered and painted. 
+Lastly, JavaScript is executed after the web page has been rendered and painted.
 
 ## What code is rendered in the browser?
 
