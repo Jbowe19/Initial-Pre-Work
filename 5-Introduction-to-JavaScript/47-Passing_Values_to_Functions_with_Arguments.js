@@ -1,4 +1,4 @@
-/* used a function with an argument */
+// used a function with an argument 
 // Example
 function ourFunctionWithArgs(a, b) {
   console.log(a - b);
