@@ -1,4 +1,4 @@
-/* found the second to last character in the last name */
+// found the second to last character in the last name 
 // Example
 var firstName = "Ada";
 var thirdToLastLetterOfFirstName = firstName[firstName.length - 3];
