@@ -1,4 +1,4 @@
-/* stored multiple arrays in one variable */
+// stored multiple arrays in one variable 
 // Example
 var ourArray = ["John", 23];
 
