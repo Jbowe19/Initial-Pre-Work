@@ -1,4 +1,4 @@
-/* declared a variable */
+// declared a variable 
 // Example
 var ourName;
 
