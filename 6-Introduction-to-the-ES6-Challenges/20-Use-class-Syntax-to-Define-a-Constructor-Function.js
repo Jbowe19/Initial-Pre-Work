@@ -1,4 +1,4 @@
-/* define a constructor function */
+// define a constructor function 
 function makeClass() {
   "use strict";
   /* Alter code below this line */
