@@ -1,4 +1,4 @@
-/* chained together an else if statement */
+// chained together an else if statement 
 function testSize(num) {
   // Only change code below this line
   if (num < 5) {
