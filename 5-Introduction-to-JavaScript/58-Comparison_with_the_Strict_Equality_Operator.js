@@ -1,4 +1,4 @@
-/* used strict equality operator*/
+// used strict equality operator
 // Setup
 function testStrict(val) {
   if (val===7) { // Change this line
