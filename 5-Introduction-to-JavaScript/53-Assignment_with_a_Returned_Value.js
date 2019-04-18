@@ -1,4 +1,4 @@
-/* assigment with a return value */
+// assigment with a return value 
 // Example
 var changed = 0;
 
