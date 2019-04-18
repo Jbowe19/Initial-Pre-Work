@@ -1,4 +1,4 @@
-/* used deconstructing to collect the rest of the array */
+// used deconstructing to collect the rest of the array 
 
 const source = [1,2,3,4,5,6,7,8,9,10];
 function removeFirstTwo(list) {
