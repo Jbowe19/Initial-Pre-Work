@@ -1,4 +1,4 @@
-/* found the last character in a string */
+// found the last character in a string 
 // Example
 var firstName = "Ada";
 var lastLetterOfFirstName = firstName[firstName.length - 1];
