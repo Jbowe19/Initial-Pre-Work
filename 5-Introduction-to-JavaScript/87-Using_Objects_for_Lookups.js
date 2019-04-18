@@ -1,4 +1,4 @@
-/* converted the switch statement into a lookup */
+// converted the switch statement into a lookup 
 // Setup
 function phoneticLookup(val) {
   var result = "";
